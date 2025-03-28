@@ -70,6 +70,7 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
  RegisterNumber: 212223220082
  
 **Logic symbol & Truthtable**
+
 ![image](https://github.com/user-attachments/assets/977b9f68-763f-44b6-ba9d-411ea23fa1bc)
 
 
